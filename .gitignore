@@ -41,3 +41,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#Codewarrior generated code:
+Debug/
+Documentation/
+Generated_Code/
+Release/
+SDK/
+.cwGeneratedFileSetLog
+#This may need more items
